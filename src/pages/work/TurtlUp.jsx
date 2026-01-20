@@ -63,24 +63,22 @@ function TurtlUp() {
       <section className="hero-section">
         <h2>TURTLUP</h2>
         <h1 className="hero-title">Posture-Sensing Wearable</h1>
-        <div className="hero-description">
-          <div className="hero-info">
-            <div>
-              <h2>Role</h2>
-              <p>UX Engineer</p>
-            </div>
-            <div>
-              <h2>Expertise</h2>
-              <p>UI/UX Design <br /> UX Research <br /> Hardware Design <br /> Frontend Development</p>
-            </div>
-            <div>
-              <h2>Year</h2>
-              <p>2024</p>
-            </div>
-            <div>
-              <h2>Team</h2>
-              <p>Justus Brown<br />Sarah Harrell<br />Sumin Hong</p>
-            </div>
+        <div className="hero-info">
+          <div>
+            <h2>Role</h2>
+            <p>UX Engineer</p>
+          </div>
+          <div>
+            <h2>Expertise</h2>
+            <p>UI/UX Design <br /> UX Research <br /> Hardware Design <br /> Frontend Development</p>
+          </div>
+          <div>
+            <h2>Year</h2>
+            <p>2024</p>
+          </div>
+          <div>
+            <h2>Team</h2>
+            <p>Justus Brown<br />Sarah Harrell<br />Sumin Hong</p>
           </div>
         </div>
       </section>

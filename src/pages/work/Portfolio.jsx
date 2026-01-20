@@ -21,24 +21,22 @@ function Portfolio() {
       <section className="hero-section">
         <h2>PORTFOLIO WEBSITE</h2>
         <h1 className="hero-title">This Website!</h1>
-        <div className="hero-description">
-          <div className="hero-info">
-            <div>
-              <h2>Role</h2>
-              <p>Web Designer & Developer</p>
-            </div>
-            <div>
-              <h2>Expertise</h2>
-              <p>Web Design | Development | Vibe Coding</p>
-            </div>
-            <div>
-              <h2>Team</h2>
-              <p>Solo Project</p>
-            </div>
-            <div>
-              <h2>Year</h2>
-              <p>2025</p>
-            </div>
+        <div className="hero-info">
+          <div>
+            <h2>Role</h2>
+            <p>Web Designer <br /> Front-End Developer</p>
+          </div>
+          <div>
+            <h2>Expertise</h2>
+            <p>Web Design <br /> Front-End Development <br /> Vibe Coding</p>
+          </div>
+          <div>
+            <h2>Team</h2>
+            <p>Solo Project</p>
+          </div>
+          <div>
+            <h2>Year</h2>
+            <p>2025</p>
           </div>
         </div>
       </section>
