@@ -1,8 +1,18 @@
 import { useEffect } from 'react'
+import { useLocation } from 'react-router-dom'
 import Header from './Header'
 import Footer from './Footer'
 
 function Layout({ children }) {
+  const location = useLocation()
+
+  // Reset body className when navigating to home page
+  useEffect(() => {
+    if (location.pathname === '/') {
+      document.body.className = ''
+    }
+  }, [location.pathname])
+
   useEffect(() => {
     // Add scroll effect to header and footer - show borders after first scroll
     const handleScroll = () => {
