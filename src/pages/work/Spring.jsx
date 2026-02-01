@@ -173,8 +173,8 @@ function Spring() {
               <p>Visual Design <br /> Design Systems</p>
             </div>
             <div>
-              <h2>Year</h2>
-              <p>2024</p>
+              <h2>Timeline</h2>
+              <p>January 2024 - March 2024</p>
             </div>
             <div>
               <h2>Team</h2>

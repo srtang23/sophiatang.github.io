@@ -140,12 +140,12 @@ function Sprout() {
               <p>Visual Design <br /> Mobile App Design <br /> UX Research</p>
             </div>
             <div>
-              <h2>Year</h2>
-              <p>2023</p>
+              <h2>Timeline</h2>
+              <p>September 2024 - March 2025</p>
             </div>
             <div>
               <h2>Team</h2>
-              <p>Brianna Lynn Smith<br />Rhiannon<br />Hayes-McQueen<br />Tucker Swarens</p>
+              <p>2 UX Researcher<br />2 UX Designer</p>
             </div>
           </div>
         </div>

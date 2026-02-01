@@ -35,8 +35,8 @@ function Portfolio() {
             <p>Solo Project</p>
           </div>
           <div>
-            <h2>Year</h2>
-            <p>2025</p>
+            <h2>Timeline</h2>
+            <p>November 2025 - Present</p>
           </div>
         </div>
       </section>

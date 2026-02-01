@@ -26,8 +26,8 @@ function HCDE351() {
               <p>Individual & Team Projects</p>
             </div>
             <div>
-              <h2>Year</h2>
-              <p>2024</p>
+              <h2>Timeline</h2>
+              <p>January 2025 - March 2025</p>
             </div>
           </div>
         </div>

@@ -73,12 +73,12 @@ function TurtlUp() {
             <p>UI/UX Design <br /> UX Research <br /> Hardware Design <br /> Frontend Development</p>
           </div>
           <div>
-            <h2>Year</h2>
-            <p>2024</p>
+            <h2>Timeline</h2>
+            <p>March 2025 - June 2025</p>
           </div>
           <div>
             <h2>Team</h2>
-            <p>Justus Brown<br />Sarah Harrell<br />Sumin Hong</p>
+            <p>1 Electrical Engineer<br />1 Bioengineer<br />1 Web Developer<br /> 1 UX Engineer</p>
           </div>
         </div>
       </section>
